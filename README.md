@@ -6,7 +6,7 @@
 
 
   <p align="center">
-    <a href="www.linkedin.com/in/hirvin-faria">Linkedin</a>&nbsp;&nbsp;&nbsp;:star:&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/hirvin-faria">LinkedIn</a>&nbsp;&nbsp;&nbsp;:star:&nbsp;&nbsp;&nbsp;
     <a href="https://hirvinfaria.codes/">Portifólio</a>&nbsp;&nbsp;&nbsp;:computer:&nbsp;&nbsp;&nbsp;
     <a href="https://play.google.com/store/apps/developer?id=hirvin-faria">Apps Android</a>&nbsp;&nbsp;&nbsp;:iphone:&nbsp;&nbsp;&nbsp;
   </p>
