@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="" width="400"/>
 
 <p align="center">
