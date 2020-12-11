@@ -2,7 +2,7 @@
   <h2 align="center">Hirvin Faria</h2>
   
   <p align="center">🎓 Graduation in progress of Computer Science and <br> Researcher at PIC UVA</p>
-  <p align="center">📱 Mobile Developer with React Native and Swift </p>
+  <p align="center">💻 Front-end Developer with React and React Native</p>
   <p align="center">♿ Software Accessibility</p>
   
   <p align="center">
